@@ -1,0 +1,10 @@
+com\mycompany\my_bibliotheque\models\Utilisateur.class
+com\mycompany\my_bibliotheque\dao\DatabaseConnection.class
+com\mycompany\my_bibliotheque\dao\UtilisateurDAO.class
+com\mycompany\my_bibliotheque\LivreManagement.class
+com\mycompany\my_bibliotheque\dao\EmpruntDAO.class
+com\mycompany\my_bibliotheque\models\Livre.class
+DatabaseConnection.class
+com\mycompany\my_bibliotheque\models\Emprunt.class
+com\mycompany\my_bibliotheque\dao\LivreDAO.class
+com\mycompany\my_bibliotheque\MainMenu.class
