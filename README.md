@@ -10,7 +10,7 @@ A application that helps manage books, members, and loans in a library.
 
 🖼️ Screenshots
 🏠 Home Page
-<img src="src/assets/Screenshot 2025-10-30 125058.png" width="30%" /><br /> <br />
+<img src="My_Bibliotheque/src/assets/Screenshot 2025-10-30 125058.png" width="30%" /><br /> <br />
 📚 Book Management
 <img src="src/assets/Screenshot 2025-10-30 125454.png" width="30%" /><br /> <br />
 👥 Members List
