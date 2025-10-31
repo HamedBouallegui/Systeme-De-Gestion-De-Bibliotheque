@@ -1,5 +1,4 @@
-📚 Système de Gestion Bibliothèque
-A application that helps manage books, members, and loans in a library.
+📚 Library Management System: An application that helps manage books, members, and loans in a library.A application that helps manage books, members, and loans in a library.
 
 🚀 Features
 📖 Add, edit, and delete books
